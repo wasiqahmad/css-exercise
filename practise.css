@@ -1,0 +1,57 @@
+h1{
+    font-size: 50px;
+    background: brown ;
+    border: blue 5px solid;
+}
+/*
+{
+    background:blue url(../html/exercise/beautiful.jpg) repeat-y right fixed;
+
+    
+}
+*/
+h2{
+    border: 10px red dotted ;
+    background: rgba(255, 100, 150, 0.2);
+    /*opacity: 0.1;*/
+}
+h3{
+    color: orangered ;
+    font-size: 32px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 10px blue dashed ;
+background: yellow url(../html/exercise/download.jpg) no-repeat scroll  right;
+
+}
+b{
+    background: yellow !important;
+}
+h4{border:solid;
+    
+    color: orangered;
+    border-color: red blue green yellow;
+    border-width: 10px 20px 30px 40px;
+    border-radius: 20px;
+    margin: 10px 20px 30px 40px;
+    width: 100px;
+    height: 10px;
+}
+
+div{
+    border: red solid 10px;
+width: 160px;
+margin: auto;
+padding: 10px 20px 30px 40px ;
+}
+h6{
+    border: blue solid;
+    width: 270px;
+    margin: inherit;
+    padding: inherit;
+  box-sizing: border-box;
+  width: 150px;
+  height:30px ;
+}
+
+
+

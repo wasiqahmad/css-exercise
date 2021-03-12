@@ -1,0 +1,16 @@
+/* this is used for unordered list and link color change */
+
+li>a {
+    color: green;
+}
+/* this is used for paragraph and link color change */
+p a {
+    background-color: palevioletred;
+}
+/* this is a used for main heading and paragraph background color change */
+h1+p {
+    background-color: purple;
+}
+h1~p {
+    color: yellow;
+}

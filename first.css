@@ -1,0 +1,73 @@
+p{
+    color: aqua;
+    font-size: 32px;
+    background-color: brown !important;
+}
+#id{
+    border: 5px solid;
+}
+p.class{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+p.class2{
+color: pink;
+
+}
+
+
+h2,small{
+    background-color:blue;
+}
+h5{
+    border: 10px dotted purple;
+}
+h6{
+    /*border-width: 20px;
+    border-color: green;
+    border-style: inset;*/
+    border: 20px red outset;
+}
+h3{
+   color: rgba(255, 55, 50,0.7);/*rgb values is 0 to 255 value it is so important*/
+}
+h4{
+
+    border: 10px outset #00ffff;/*this is a hexa decimal code there are used in different colour*/,
+}
+h1{
+
+    background-color:hsla(10, 50%, 50%,0.5)
+}
+nav{
+    
+    background-color:rgba(255,0,0,0.5);
+    color: yellowgreen;
+   /* opacity: 1;          /  opacity is used for all element is transparet in div element  */
+}
+
+div{
+
+    /*background-image: url(../html/exercise/download.jpg);
+background-repeat:no-repeat;
+background-position:bottom right;
+background-attachment: fixed;
+background-color: red;
+background shorthand*/
+
+background: red url(../html/exercise/download.jpg) no-repeat fixed bottom right;
+/*
+  repeat-x   this image is repeat in the form of rows
+    repeat-y this image is repeat in the form of colums
+*/
+
+}
+
+b{
+background-image: url(../html/exercise/beautiful.jpg);
+background-repeat: repeat;
+}
+
+
+/*this is a comment this is a most mportant paragraph*/
+
+

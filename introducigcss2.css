@@ -1,0 +1,61 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #665544;
+    padding: 10px;
+}
+.class{
+    border: 1px solid #665544;
+    background-color: #efefef;
+    padding: inherit;
+}
+
+/* text simple color alphabets */
+p.class1{
+    color: darkcyan;
+    background-color: rgb(41, 37, 29);
+}
+/* text rgb colors */
+p.class2{
+    color: rgb(100,100,90);
+    background-color: maroon;
+}
+/* text hexa color */
+p.class3{
+    color: #ee3e80;
+    background-color: greenyellow;
+}
+.class4{
+    color: yellow;
+    background-color: rgb(255, 0, 0);
+    opacity: 0.5;
+}
+.class5{
+    color: orangered;
+background-color: rgb(0,0,0);
+}
+/* this color is used hsl */
+.class6{
+        background-color: #C8C8C8;
+        background-color: hsl(0,0%,78%);
+}
+/* this color is used hsla */
+.class9{
+    /* background-color: hsla(300,10%,10%,0.5); */
+    background-color: #C8C8C8;
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

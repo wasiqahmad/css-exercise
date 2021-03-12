@@ -1,0 +1,84 @@
+p{
+    color: rgba(255, 124, 49,0.8);
+font-size: 30px;
+border: green 3px solid;
+width: 200px;
+height: 100px;
+/*
+
+margin:20px 30px 40px 50px;*/
+margin: auto;
+/*
+padding: 10px 20px 30px 40px;
+box-sizing: border-box;
+*/
+
+
+}
+i{
+   color: #f99;/*this is a hexa color*/
+   background-color: hsla(300, 76%, 72%, 0.5);
+}
+div{
+max-width:100%;
+max-height: 100%;
+
+background: red url(./picture.jpg) no-repeat bottom right fixed;
+/*    background-image:url(../html/exercise/download.jpg) ;
+    background-repeat: repeat;
+    background-position: bottom right;
+background-attachment: fixed;
+*/
+}
+/* border style */
+.class{
+   /* 
+    border-style: solid dotted dashed groove ;
+border-color: green yellow pink brown;
+border-width: 2px 3px 4px 5px;*/
+border: solid 10px red;
+color: blueviolet;
+border-radius: 50px;
+
+}
+
+h5{
+    border: red 5px solid;
+width: 350px;
+/*
+margin: 20px;
+padding: 10px;*/
+box-sizing: border-box;
+/*outline-style:solid;
+outline-width:3px;
+outline-color: blueviolet;*/
+outline: 2px dashed purple;
+outline-offset: 3px;
+color: greenyellow;
+background-color: chocolate;
+text-align: justify;
+direction: ltr;
+/*unicode-bidi: bidi-override;*/
+text-transform: capitalize;
+text-indent: 20px;
+letter-spacing: 2px;
+line-height: 2;
+word-spacing: 5px;
+white-space:pre;
+text-shadow: 2px 3px 1px red;
+}
+
+.class4{
+    vertical-align: bottom ;
+}
+#id{
+    text-decoration: none;
+}
+strong{
+    color: blue;
+    text-decoration: underline;
+}
+
+
+
+

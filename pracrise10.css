@@ -1,0 +1,42 @@
+p{
+    color: brown;
+    border: 2px solid grey;
+    background-color: ivory;
+    width: 450px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+top: 70px;
+left: 100px; 
+
+}
+
+div{
+    border: 2px solid #efef00;
+    width: 100%;
+    overflow: auto;
+    float: right;
+width: 700px;
+clear:both;
+}
+h1{
+    padding: 10px;
+    color: blue;
+    width: 100%;
+     position: relative;
+     posiition:fixed; 
+    position:fixed;
+    top: 0;
+    left: 0 ;
+    z-index: 10;
+    clear: right;
+    
+}
+blockquote{
+    float: right;
+    width: 150px;
+    color: blue;
+    border-top: 2px solid wheat;
+    border-bottom: 2px solid brown;
+    font-size: 130%;
+    font-style: italic;
+} */

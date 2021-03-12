@@ -1,0 +1,106 @@
+h1{
+/*
+    border-width: 10px 20px 30px 40px;
+    border-style: dashed dotted solid groove;
+     border-color: yellowgreen purple blue brown;*/
+
+border: pink solid 20px;    
+border-radius: 20px;
+margin: 50px;
+
+
+  /*  border-width: medium;*/
+
+/*
+border-color: red;
+border-top-style: groove;
+border-left-style: dotted;
+border-right-style: dashed;
+border-bottom-style:outset;
+*/
+/*border-color: transparent;
+border-top-color: tomato;
+border-left-color: blue;
+border-right-color: green;
+border-bottom-color: red;
+*/
+}
+div{
+border: 2px solid red;
+/*margin-right: 50px;
+margin:inherit;
+margin-top: 30px;
+margin-bottom: 30px;
+margin-left: 30px;
+margin-right: 30px;
+*/
+margin: 10px 20px 30px 40px;
+ padding: 10px 20px 30px 40px;
+  
+}
+
+h3{
+  width:180px;
+  border: 2px solid red;
+  margin: auto;
+  box-sizing: border-box;
+
+  /*margin collaps/
+  /this is the margin auto/
+  */
+  margin: auto;
+
+}
+h4{border: red solid;
+
+  min-width: 50%;
+  min-height:70% ;
+max-width: 98%;
+  /* width= initial
+  height= initial*/
+}
+h5{
+  border: 5px solid red;
+  padding: 10px;
+  margin: 40px;
+  width: 150px;
+  box-sizing: border-box;
+}
+
+h6{
+  /*outline-style: dashed;
+  outline-width: thick;
+  outline-color: rebeccapurple;*/
+  border: red solid 5px;
+outline: 5px yellow groove;
+/*outline-offset: 3px;*/
+color: rebeccapurple;
+background:skyblue ;
+text-align: justify;
+direction: ltr;
+unicode-bidi: normal;
+text-transform: capitalize;
+/*text-indent: 20px;
+letter-spacing: 1px;
+line-height: 1;
+word-spacing: 5px;*/
+white-space: pre;
+text-shadow: 2px 1px 2px red;
+}
+.picture1{
+vertical-align: middle;
+}
+.picture{
+  vertical-align: top;
+}
+#id{
+  text-decoration: none;
+}
+#italic{
+  text-decoration: overline;
+  color: blue;
+}
+
+
+
+

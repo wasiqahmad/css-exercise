@@ -1,0 +1,116 @@
+
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 12px;
+    }
+    h1{
+        font-family: Arial, Helvetica, sans-serif;
+    font-size: 200%;
+    }
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1.3em;
+    }
+    p.class1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+
+}
+p{
+    /* this is used for change the style */
+    /* font-style: oblique; */
+    
+    /* it is used for first letter is capital and other is small  */
+    text-transform: capitalize;
+    
+    /* it is used for uderlie the keyworld */
+    /* text-decoration: underline; */
+    
+    /* it is used for arrange for height */
+    line-height: 1.4em;
+    
+    /* it is used for space in letter */
+    /* letter-spacing: 5px; */
+    
+    /* it is used for space in world */
+    /* word-spacing: 2px; */
+    
+    /* it is used for covered all area for writing the text */
+    text-align: justify;
+}
+
+/* this is used for picture around the up and down  */
+#id1{
+    vertical-align: baseline;
+}
+
+
+#id2{
+    background: url(../html/exercise/beautiful.jpg) no-repeat;
+    width: 150px;
+    height: 100px;
+    text-indent: -9999px;
+    text-indent: 20px;
+}
+#id3{
+    background-color: #eeeeee;
+color: #666666;
+text-shadow: 1px 1px 0px #000000;
+}
+#id4{
+    background-color: #dddddd;
+color: #666666;
+text-shadow: 1px 1px 3px #666666;
+}
+#id5{
+    background-color: #cccccc;
+color: #ffffff;
+text-shadow: 2px 2px 7px #111111;
+}
+#id6{
+    background-color: #bbbbbb;
+color: #cccccc;
+text-shadow: -1px -2px #666666;
+}
+#id7{
+    background-color: #aaaaaa;
+color: #ffffff;
+text-shadow: -1px -1px #666666;
+}
+p.class25{
+    margin: 0;
+}
+a.id1{
+    color: aqua;
+    background-color: tomato;
+}
+a.id2{
+    color: pink;
+    background-color: blue;
+}
+a.id3{
+    color: brown;
+    background-color: chartreuse;
+}
+a.id4{
+    color: yellow;
+    background-color: darkred;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
