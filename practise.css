@@ -1,56 +1,63 @@
+/* p{
+    color: brown;
+    position:relative;
+    top: 10%;
+    left: 3%;
+    clear: both;
+    overflow: auto;
+    padding: 20%;
+    
+}
+
 h1{
-    font-size: 50px;
-    background: brown ;
-    border: blue 5px solid;
-}
-/*
-{
-    background:blue url(../html/exercise/beautiful.jpg) repeat-y right fixed;
+     float:right;
+    padding: 10%;
+    margin: auto;
+}  */
 
-    
-}
-*/
-h2{
-    border: 10px red dotted ;
-    background: rgba(255, 100, 150, 0.2);
-    /*opacity: 0.1;*/
-}
-h3{
-    color: orangered ;
-    font-size: 32px;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    border: 10px blue dashed ;
-background: yellow url(../html/exercise/download.jpg) no-repeat scroll  right;
-
-}
-b{
-    background: yellow !important;
-}
-h4{border:solid;
-    
-    color: orangered;
-    border-color: red blue green yellow;
-    border-width: 10px 20px 30px 40px;
-    border-radius: 20px;
-    margin: 10px 20px 30px 40px;
+/* img.class{
     width: 100px;
-    height: 10px;
+    height: 100px;
+    float: none;
+    
+    
+    display: block;
+margin: auto;
+}
+p{
+    margin: auto;
+    text-align: right;
+
 }
 
-div{
-    border: red solid 10px;
-width: 160px;
-margin: auto;
-padding: 10px 20px 30px 40px ;
-}
-h6{
-    border: blue solid;
-    width: 270px;
-    margin: inherit;
-    padding: inherit;
-  box-sizing: border-box;
-  width: 150px;
-  height:30px ;
+img.picture{
+    width: 100px;
+    height: 100px;
+    float: right;
+} */
+    
+/* p{
+    width: 400px;
+text-align: left; */
+/* margin-right: 10px; */
+/* } */
+/* img.picture{
+    float: right;
+width: 100px;
+height: 100px;
+margin-top: 200px;
+} */
+/* p{ */
+    /* background-image: url(./test.png);
+    background-repeat: no-repeat; */
+    /* background: url(./test.png) fixed no-repeat;
+    background-position: center top; */
+  /* background-position: ; */
+/* } */
+
+pre{
+    background: url(./test.png) no-repeat fixed;
+    background-position: 50% 50%;
 }
 
 
