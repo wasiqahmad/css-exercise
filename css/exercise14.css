@@ -1,0 +1,88 @@
+/* this is used for full page editing */
+body{
+    color: #666;
+    background-color: #f8f8f8;
+    font-size: 110%;
+}
+/* this is used for main heading color change */
+h1{
+    color: darkslategrey;
+}
+li{
+    list-style-image: url(./picture.jpg);
+    line-height: 1.6e;
+}
+
+td{
+    background-color: #e0e9f0;}
+
+.table{
+    width: 230px;
+margin: opx;
+border-top-left-radius: 5px;
+
+}
+.table1{
+    
+    border-top-right-radius: 5px;
+}
+th,td{
+    
+    width: 140px;
+    height: 30px;
+    text-align: left;
+
+padding: 5px 1px 2px 20px;
+
+}
+
+th{
+    border: 2px solid skyblue;
+
+background-color: skyblue;
+color: white;
+}
+.one{
+    background-color: aqua;    
+    text-shadow: -1px -1px 1px #666
+}
+.two{
+    background-color: pink;
+    text-shadow: -1px -1px 1px #666
+}
+.three{
+    background-color: lightblue;
+    text-shadow: -1px -1px 1px #666
+}
+fieldset{
+    width: 300px;
+margin: 2px;
+line-height: 20px;
+}
+legend{
+    margin: 20px;
+}
+input{
+    margin: 2px;
+    border: 2px solid outset;
+}
+select{
+    margin: 20px;
+    background-color: skyblue;
+}
+.radio{
+    margin: 0px;
+}
+span{
+    margin-right: 15px;
+}
+legend{
+    font-style: italic;
+}
+
+
+
+
+
+
+
