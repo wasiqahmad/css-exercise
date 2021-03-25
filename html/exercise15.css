@@ -1,0 +1,115 @@
+ body{
+     background-color: #413f3b;
+color: whitesmoke;
+    }
+.body{
+    width: 850px;
+    margin: auto;
+    background-color: #413f3b;
+margin-top: 20px;
+}
+
+.practise{
+    background-color: black;
+    color: whitesmoke;
+    margin: 0px;
+}
+
+.one{
+    
+    text-transform: uppercase;
+margin-bottom: 0%;
+}
+.two{
+    /* margin-top: 0%; */
+    color: orangered;
+}
+.div{
+    margin-left: 250px;
+    height: 50px;
+}
+
+.three{
+    margin-top: 0px;
+}
+
+.one{
+    margin-top: 10px; 
+     font-size: 25px;
+}
+.italic{
+    float: right;
+    margin-right: 250px;
+    margin-top:9px ;
+    font-size: 40%;
+letter-spacing: 3px;
+/* word-spacing: 50px; */
+}
+
+.five{
+    text-transform: uppercase;
+    width: 350px;
+    font-size: 160%;
+    text-align: right;
+    margin-left: 350px;
+word-spacing: 7px;
+} 
+.nine{
+    /* float: right; */
+    display: inline;
+    /* margin-left:10px ; */
+}
+.important{
+    float: left;
+    margin-left: 20px;
+}
+.div23{
+    /* font-size: 80%; */
+    margin-left: 35px;
+    letter-spacing: 2px;
+}
+.most{
+    margin-left: 37px;
+}
+.ten{
+    display: block;
+    /* float: left; */
+    margin-bottom: 10px;
+    margin-top: 2px;
+width: 150px;
+}
+hr{
+    width: 150px;
+}
+
+.twe{
+    width: 150px;
+}
+.div1{
+    width: 200px;
+    float: right;
+margin-right: 80px;
+
+}
+.img{
+    margin-left: 70px;
+}
+.six{
+    margin-top: 5px;
+    font-size: 90%;
+}
+.eight{
+   
+    border-top: whitesmoke 2px solid;
+    
+    text-transform: uppercase;
+    font-size: 110%;
+margin: 20px;
+}
+
+p{
+    margin-left: 10px;
+}
+.seven{
+    font-size: 110%;
+}
