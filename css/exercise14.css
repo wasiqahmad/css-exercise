@@ -11,6 +11,7 @@ h1{
 li{
     list-style-image: url(./picture.jpg);
     line-height: 1.6e;
+list-style: none;
 }
 
 td{

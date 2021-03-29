@@ -13,6 +13,10 @@ margin-top: 35px;
 border: 5px solid whitesmoke;
 margin-left: 20px;
 }
+.fig{
+    background-color: whitesmoke;
+text-align: left;
+}
 .section1{
     margin-left: 170px;
 }
